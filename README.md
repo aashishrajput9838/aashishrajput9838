@@ -8,6 +8,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aashishrajput9838&theme=dark&hide_border=true)
 
+<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" style="visibility: visible; max-width: 100%;">
+
 ---
 
 ## 💻 Tech Stack
