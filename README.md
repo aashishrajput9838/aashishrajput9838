@@ -195,17 +195,17 @@ Full-Stack Development
   <tr>
     <td width="130" align="center" valign="middle">
       <br/>
-      <img src="logo-aspirinexar.png" width="115" alt="AspirinExar Logo" />
+      <img src="logo-aspirinexar.png" width="115" alt="aspirinexar Logo" />
     </td>
     <td valign="top">
-      <h3>⚡ AspirinExar</h3>
+      <h3>⚡ aspirinexar</h3>
       <p><b>Innovative Tech Solutions, Web Engineering & Digital Products</b></p>
       <p>
         Pioneering scalable web platforms, full-stack software architectures, and modern digital experiences.
       </p>
       <p>
         <a href="https://aspirinexar.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Official_Website-aspirinexar.vercel.app-FF6600?style=for-the-badge&logo=vercel&logoColor=white" alt="AspirinExar Website" />
+          <img src="https://img.shields.io/badge/Official_Website-aspirinexar.vercel.app-FF6600?style=for-the-badge&logo=vercel&logoColor=white" alt="aspirinexar Website" />
         </a>
       </p>
     </td>
@@ -213,7 +213,7 @@ Full-Stack Development
 </table>
 
 <p align="center">
-  <sub>© 2026 <b>AspirinExar</b>. All Rights Reserved.</sub>
+  <sub>© 2026 <b>aspirinexar</b>. All Rights Reserved.</sub>
 </p>
 
 ---
@@ -239,7 +239,7 @@ Full-Stack Development
 </p>
 
 <p align="center">
-  <sub>© 2026 <b>AspirinExar</b> • All Rights Reserved</sub>
+  <sub>© 2026 <b>aspirinexar</b> • All Rights Reserved</sub>
 </p>
 
 <p align="center">
