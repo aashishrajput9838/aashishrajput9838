@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aashish Rajput</h1>
 
-<h3 align="center">🚀 Computer Science Engineer | Backend & Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">🚀 Computer Science Engineer | Full-Stack & Systems Developer | AI & Security Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=B.Tech+Computer+Science+Student;Backend+%26+Full+Stack+Developer;Building+Real+World+MERN+%26+Next.js+Apps;Exploring+AI%2C+Security+%26+System+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=780&lines=B.Tech+Computer+Science+Student;Full+Stack+%26+Windows+Systems+Developer;Building+MERN%2C+Next.js+%26+Desktop+Apps;Exploring+AI%2C+Security+%26+System+Design" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,13 +18,24 @@
 
 ## 💫 About Me
 
-I am a **Computer Science Engineering student** with a deep passion for building scalable full-stack applications, robust backend architectures, and secure web systems.
+I am a **Computer Science Engineering student** with a strong foundation across full-stack web development, Windows desktop systems, and backend engineering. My work spans building modern web platforms with MERN & Next.js, engineering high-performance Windows desktop software with Python & C++, and integrating AI and security mechanisms into software products.
 
 * 🎓 **Education:** Pursuing B.Tech in Computer Science Engineering.
-* 💻 **Engineering Focus:** Specializing in **Full-Stack & Backend Development** using the **MERN Stack** & **Next.js**.
-* 🤖 **AI & Security:** Actively exploring **Artificial Intelligence, Machine Learning**, and **Authentication Systems**.
-* 🛠️ **System Architecture:** Deepening expertise in **System Design**, database optimization, and cloud services.
-* 🎯 **Career Vision:** Driven to become a world-class Software Engineer and build impactful tech solutions.
+* 💻 **Engineering Scope:** Full-Stack Web Development, Desktop Software & Windows Systems Programming.
+* ⚙️ **Backend & Automation:** Scalable APIs, Browser Automation (Chromium/CDP), and Process Control.
+* 🔐 **Security & AI:** Authentication Systems, Credential Encryption, and Machine Learning Integrations.
+* 🎯 **Career Vision:** Driven to become a versatile Software Engineer and build innovative, high-impact products.
+
+---
+
+## ⚡ Engineering Interests
+
+* 🌐 **Full-Stack & Backend Engineering** (MERN, Next.js, Node.js, Python)
+* 🖥️ **Windows Desktop & Systems Programming** (PySide6, Win32 API, Native C++)
+* 🤖 **Browser Automation & Embedded Chromium** (QtWebEngine, Chrome DevTools Protocol)
+* 🔐 **Authentication & Security** (OAuth2, 2FA, Windows DPAPI)
+* 🧠 **AI-Powered Applications & Systems** (Machine Learning Integrations)
+* 🏗️ **Performance Optimization & System Design** (Low-latency Screen Capture, Multithreading)
 
 ---
 
@@ -32,28 +43,41 @@ I am a **Computer Science Engineering student** with a deep passion for building
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,java" alt="Languages" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Web & Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Web & Frontend" />
 </p>
 
-### ⚙️ Backend & Cloud
+### 🖥️ Desktop & Systems Engineering
+`PySide6` &nbsp;•&nbsp; `Qt 6.7 / QtWebEngine` &nbsp;•&nbsp; `Win32 API` &nbsp;•&nbsp; `C++ Native DLLs` &nbsp;•&nbsp; `MSVC` &nbsp;•&nbsp; `Windows SendInput`
+
+### 🌐 Browser & Automation Engine
+`Embedded Chromium` &nbsp;•&nbsp; `Chrome DevTools Protocol (CDP)` &nbsp;•&nbsp; `WebSocket Client` &nbsp;•&nbsp; `OAuth2 Handoff`
+
+### ⚙️ Backend & Runtime
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase" alt="Backend & Runtime" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases" />
 </p>
 
-### 🛠️ DevOps & Tools
+### 🔐 Security & Encryption
+`Windows DPAPI` &nbsp;•&nbsp; `2FA Google Authenticator` &nbsp;•&nbsp; `Encrypted Credential Storage`
+
+### 🖼️ Graphics & Screen Capture
+`DirectX` &nbsp;•&nbsp; `DXGI Desktop Duplication` &nbsp;•&nbsp; `Win32 BitBlt`
+
+### 🛠️ DevOps, Testing & Tooling
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,postman" alt="DevOps & Tools" />
 </p>
+`PyInstaller` &nbsp;•&nbsp; `Pytest / pytest-qt` &nbsp;•&nbsp; `Ruff` &nbsp;•&nbsp; `MyPy`
 
 ---
 
@@ -92,6 +116,41 @@ I am a **Computer Science Engineering student** with a deep passion for building
 
 ## 🚀 Featured Projects
 
+### 🌟 Headline Showcase Project
+
+<table>
+  <tr>
+    <td width="110" align="center" valign="top">
+      <br/>
+      <img src="https://raw.githubusercontent.com/aashishrajput9838/batmanoverlay/main/logo/iconbatmanoverlay.jpg" width="95" style="border-radius: 10px;" alt="BatmanOverlay Logo" />
+    </td>
+    <td valign="top">
+      <h3>🦇 BatmanOverlay</h3>
+      <p><b>Portable Windows Productivity, Presentation & Desktop Overlay Assistant</b></p>
+      <p>
+        A high-performance Windows desktop application combining an embedded Chromium engine (QtWebEngine), CDP browser automation, thread-safe SQLite persistent clipboard, human keystroke simulation (Win32 SendInput), and GPU-accelerated DirectX/DXGI screen capture with native C++ Z-order desktop pinning.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PySide6-Qt_6.7-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6" />
+        <img src="https://img.shields.io/badge/C++-Win32_Native-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Chromium-CDP_Automation-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="CDP" />
+        <img src="https://img.shields.io/badge/DirectX-DXGI_Capture-0078D4?style=flat-square&logo=windows&logoColor=white" alt="DirectX" />
+        <img src="https://img.shields.io/badge/SQLite-Storage-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+      <p>
+        <a href="https://github.com/aashishrajput9838/batmanoverlay" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 📁 Additional Featured Projects
+
 | Project | Description | Core Stack |
 | :--- | :--- | :--- |
 | 🎓 **Academic Universe** | AI-powered Student ERP Platform for academic management and analytics | `Next.js` `Node.js` `MongoDB` `AI` |
@@ -116,10 +175,11 @@ I am a **Computer Science Engineering student** with a deep passion for building
 ```
 Full-Stack Development
  └── ⚙️ Backend Engineering
-      └── 🔐 Authentication & Security Systems
-           └── 🤖 Artificial Intelligence Integrations
-                └── 🏗️ Scalable System Design
-                     └── 🚀 Software Engineering & Entrepreneurship
+      └── 🖥️ Desktop & Systems Engineering
+           └── 🔐 Authentication & Security Systems
+                └── 🤖 Artificial Intelligence Integrations
+                     └── 🏗️ Scalable System Design
+                          └── 🚀 Software Engineering & Entrepreneurship
 ```
 
 ---
