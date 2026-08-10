@@ -32,17 +32,6 @@ I am a **Computer Science Engineering student** with a strong foundation across 
 
 ---
 
-## ⚡ Engineering Interests
-
-* 🌐 **Full-Stack & Backend Engineering** (MERN, Next.js, Node.js, Python)
-* 🖥️ **Windows Desktop & Systems Programming** (PySide6, Win32 API, Native C++)
-* 🤖 **Browser Automation & Embedded Chromium** (QtWebEngine, Chrome DevTools Protocol)
-* 🔐 **Authentication & Security** (OAuth2, 2FA, Windows DPAPI)
-* 🧠 **AI-Powered Applications & Systems** (Machine Learning Integrations)
-* 🏗️ **Performance Optimization & System Design** (Low-latency Screen Capture, Multithreading)
-
----
-
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
