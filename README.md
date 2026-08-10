@@ -30,65 +30,83 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<h3 align="center">👨‍💻 Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,java" alt="Languages" />
-</p>
-
-<h3 align="center">🎨 Web & Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Web & Frontend" />
-</p>
-
-<h3 align="center">⚙️ Backend & Runtime</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase" alt="Backend & Runtime" />
-</p>
-
-<h3 align="center">🗄️ Databases & Storage</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases" />
-</p>
-
-<h3 align="center">🛠️ DevOps, Testing & Tooling</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode,postman" alt="DevOps & Tools" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyInstaller-Executable_Build-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyInstaller" />
-  <img src="https://img.shields.io/badge/Pytest-pytest--qt-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/Ruff-Fast_Linter-261230?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />
-  <img src="https://img.shields.io/badge/MyPy-Strict_Types-2A629A?style=for-the-badge&logo=python&logoColor=white" alt="MyPy" />
-</p>
-
-<h3 align="center">🖥️ Desktop & Systems Engineering</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/PySide6-Qt_6.7-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6" />
-  <img src="https://img.shields.io/badge/Win32_API-Windows_SDK-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Win32 API" />
-  <img src="https://img.shields.io/badge/C%2B%2B_Native_DLLs-MSVC-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Native DLLs" />
-  <img src="https://img.shields.io/badge/SendInput_API-Win32-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="SendInput API" />
-</p>
-
-<h3 align="center">🌐 Browser & Automation Engine</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded_Chromium-QtWebEngine-4285F4?style=for-the-badge&logo=chromium&logoColor=white" alt="Embedded Chromium" />
-  <img src="https://img.shields.io/badge/CDP_Automation-DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CDP Automation" />
-  <img src="https://img.shields.io/badge/WebSocket_Client-Realtime-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket Client" />
-  <img src="https://img.shields.io/badge/OAuth2_Handoff-Auth_Server-EB5424?style=for-the-badge&logo=openid&logoColor=white" alt="OAuth2 Handoff" />
-</p>
-
-<h3 align="center">🖼️ Graphics & Screen Capture</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/DirectX-GPU_Capture-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DirectX" />
-  <img src="https://img.shields.io/badge/DXGI-Desktop_Duplication-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DXGI" />
-  <img src="https://img.shields.io/badge/Win32_BitBlt-Screen_Capture-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Win32 BitBlt" />
-</p>
-
-<h3 align="center">🔐 Security & Encryption</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows_DPAPI-Encrypted_Storage-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows DPAPI" />
-  <img src="https://img.shields.io/badge/2FA-Google_Authenticator-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="2FA Google Authenticator" />
-</p>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="30%">Domain / Category</th>
+      <th align="center" width="70%">Technologies, Frameworks & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>👨‍💻 Languages</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,java" alt="Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🎨 Web & Frontend</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Web & Frontend" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>⚙️ Backend & Runtime</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase" alt="Backend & Runtime" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🗄️ Databases & Storage</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🛠️ DevOps, Testing & Tools</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode,postman" alt="DevOps" /><br/>
+        <img src="https://img.shields.io/badge/PyInstaller-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyInstaller" />
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+        <img src="https://img.shields.io/badge/Ruff-261230?style=for-the-badge&logo=ruff&logoColor=white" alt="Ruff" />
+        <img src="https://img.shields.io/badge/MyPy-2A629A?style=for-the-badge&logo=python&logoColor=white" alt="MyPy" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🖥️ Desktop & Systems</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PySide6_Qt_6.7-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6" />
+        <img src="https://img.shields.io/badge/Win32_API-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Win32 API" />
+        <img src="https://img.shields.io/badge/C%2B%2B_Native_DLLs-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Native DLLs" />
+        <img src="https://img.shields.io/badge/SendInput_API-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="SendInput API" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🌐 Browser & Automation</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/QtWebEngine-4285F4?style=for-the-badge&logo=chromium&logoColor=white" alt="Embedded Chromium" />
+        <img src="https://img.shields.io/badge/CDP_Automation-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CDP Automation" />
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket Client" />
+        <img src="https://img.shields.io/badge/OAuth2_Handoff-EB5424?style=for-the-badge&logo=openid&logoColor=white" alt="OAuth2 Handoff" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🖼️ Graphics & Screen Capture</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/DirectX_GPU_Capture-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DirectX" />
+        <img src="https://img.shields.io/badge/DXGI_Duplication-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DXGI" />
+        <img src="https://img.shields.io/badge/Win32_BitBlt-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Win32 BitBlt" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🔐 Security & Encryption</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Windows_DPAPI-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows DPAPI" />
+        <img src="https://img.shields.io/badge/2FA_Google_Auth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="2FA Google Authenticator" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
