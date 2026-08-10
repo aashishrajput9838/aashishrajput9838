@@ -112,23 +112,9 @@
 
 <h2 align="center">🎯 Developer Focus & Roadmap</h2>
 
-```mermaid
-graph TD
-    A["🌐 Full-Stack Development"] --> B["⚙️ Backend Engineering"]
-    B --> C["🖥️ Desktop & Systems Engineering"]
-    C --> D["🔐 Authentication & Security Systems"]
-    D --> E["🤖 Artificial Intelligence Integrations"]
-    E --> F["🏗️ Scalable System Design"]
-    F --> G["🚀 Software Engineering & Entrepreneurship"]
-
-    style A fill:#1a1b26,stroke:#7aa2f7,stroke-width:2px,color:#c0caf5
-    style B fill:#1a1b26,stroke:#7aa2f7,stroke-width:2px,color:#c0caf5
-    style C fill:#1a1b26,stroke:#7aa2f7,stroke-width:2px,color:#c0caf5
-    style D fill:#1a1b26,stroke:#7aa2f7,stroke-width:2px,color:#c0caf5
-    style E fill:#1a1b26,stroke:#7aa2f7,stroke-width:2px,color:#c0caf5
-    style F fill:#1a1b26,stroke:#7aa2f7,stroke-width:2px,color:#c0caf5
-    style G fill:#ff6600,stroke:#ff6600,stroke-width:2px,color:#ffffff
-```
+<p align="center">
+  <img src="roadmap-flowchart.svg" width="100%" alt="Developer Focus & Roadmap Flowchart" />
+</p>
 
 ---
 
