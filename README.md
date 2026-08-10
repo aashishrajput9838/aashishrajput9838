@@ -56,10 +56,20 @@ I am a **Computer Science Engineering student** with a strong foundation across 
 </p>
 
 ### 🖥️ Desktop & Systems Engineering
-`PySide6` &nbsp;•&nbsp; `Qt 6.7 / QtWebEngine` &nbsp;•&nbsp; `Win32 API` &nbsp;•&nbsp; `C++ Native DLLs` &nbsp;•&nbsp; `MSVC` &nbsp;•&nbsp; `Windows SendInput`
+<p>
+  <img src="https://img.shields.io/badge/PySide6-Qt_6.7-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6" />
+  <img src="https://img.shields.io/badge/Win32_API-Windows_SDK-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Win32 API" />
+  <img src="https://img.shields.io/badge/C%2B%2B_Native_DLLs-MSVC-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Native DLLs" />
+  <img src="https://img.shields.io/badge/SendInput_API-Win32-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="SendInput API" />
+</p>
 
 ### 🌐 Browser & Automation Engine
-`Embedded Chromium` &nbsp;•&nbsp; `Chrome DevTools Protocol (CDP)` &nbsp;•&nbsp; `WebSocket Client` &nbsp;•&nbsp; `OAuth2 Handoff`
+<p>
+  <img src="https://img.shields.io/badge/Embedded_Chromium-QtWebEngine-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Embedded Chromium" />
+  <img src="https://img.shields.io/badge/CDP_Automation-DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CDP Automation" />
+  <img src="https://img.shields.io/badge/WebSocket_Client-Realtime-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket Client" />
+  <img src="https://img.shields.io/badge/OAuth2_Handoff-Auth_Server-EB5424?style=for-the-badge&logo=openid&logoColor=white" alt="OAuth2 Handoff" />
+</p>
 
 ### ⚙️ Backend & Runtime
 <p>
@@ -72,16 +82,28 @@ I am a **Computer Science Engineering student** with a strong foundation across 
 </p>
 
 ### 🔐 Security & Encryption
-`Windows DPAPI` &nbsp;•&nbsp; `2FA Google Authenticator` &nbsp;•&nbsp; `Encrypted Credential Storage`
+<p>
+  <img src="https://img.shields.io/badge/Windows_DPAPI-Encrypted_Storage-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows DPAPI" />
+  <img src="https://img.shields.io/badge/2FA-Google_Authenticator-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="2FA Google Authenticator" />
+</p>
 
 ### 🖼️ Graphics & Screen Capture
-`DirectX` &nbsp;•&nbsp; `DXGI Desktop Duplication` &nbsp;•&nbsp; `Win32 BitBlt`
+<p>
+  <img src="https://img.shields.io/badge/DirectX-GPU_Capture-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DirectX" />
+  <img src="https://img.shields.io/badge/DXGI-Desktop_Duplication-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DXGI" />
+  <img src="https://img.shields.io/badge/Win32_BitBlt-Screen_Capture-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Win32 BitBlt" />
+</p>
 
 ### 🛠️ DevOps, Testing & Tooling
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,postman" alt="DevOps & Tools" />
 </p>
-`PyInstaller` &nbsp;•&nbsp; `Pytest / pytest-qt` &nbsp;•&nbsp; `Ruff` &nbsp;•&nbsp; `MyPy`
+<p>
+  <img src="https://img.shields.io/badge/PyInstaller-Executable_Build-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyInstaller" />
+  <img src="https://img.shields.io/badge/Pytest-pytest--qt-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Ruff-Fast_Linter-261230?style=for-the-badge&logo=ruff&logoColor=white" alt="Ruff" />
+  <img src="https://img.shields.io/badge/MyPy-Strict_Types-2A629A?style=for-the-badge&logo=python&logoColor=white" alt="MyPy" />
+</p>
 
 ---
 
