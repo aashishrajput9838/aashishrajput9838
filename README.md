@@ -55,6 +55,16 @@ I am a **Computer Science Engineering student** with a strong foundation across 
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Web & Frontend" />
 </p>
 
+### ⚙️ Backend & Runtime
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase" alt="Backend & Runtime" />
+</p>
+
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases" />
+</p>
+
 ### 🖥️ Desktop & Systems Engineering
 <p>
   <img src="https://img.shields.io/badge/PySide6-Qt_6.7-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6" />
@@ -71,27 +81,17 @@ I am a **Computer Science Engineering student** with a strong foundation across 
   <img src="https://img.shields.io/badge/OAuth2_Handoff-Auth_Server-EB5424?style=for-the-badge&logo=openid&logoColor=white" alt="OAuth2 Handoff" />
 </p>
 
-### ⚙️ Backend & Runtime
+### 🖼️ Graphics & Screen Capture
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase" alt="Backend & Runtime" />
-</p>
-
-### 🗄️ Databases & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases" />
+  <img src="https://img.shields.io/badge/DirectX-GPU_Capture-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DirectX" />
+  <img src="https://img.shields.io/badge/DXGI-Desktop_Duplication-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DXGI" />
+  <img src="https://img.shields.io/badge/Win32_BitBlt-Screen_Capture-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Win32 BitBlt" />
 </p>
 
 ### 🔐 Security & Encryption
 <p>
   <img src="https://img.shields.io/badge/Windows_DPAPI-Encrypted_Storage-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows DPAPI" />
   <img src="https://img.shields.io/badge/2FA-Google_Authenticator-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="2FA Google Authenticator" />
-</p>
-
-### 🖼️ Graphics & Screen Capture
-<p>
-  <img src="https://img.shields.io/badge/DirectX-GPU_Capture-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DirectX" />
-  <img src="https://img.shields.io/badge/DXGI-Desktop_Duplication-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DXGI" />
-  <img src="https://img.shields.io/badge/Win32_BitBlt-Screen_Capture-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Win32 BitBlt" />
 </p>
 
 ### 🛠️ DevOps, Testing & Tooling
