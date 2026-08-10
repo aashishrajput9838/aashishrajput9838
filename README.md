@@ -8,12 +8,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=780&lines=B.Tech+Computer+Science+Student;Full+Stack+%26+Windows+Systems+Developer;Building+MERN%2C+Next.js+%26+Desktop+Apps;Exploring+AI%2C+Security+%26+System+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=800&color=FF6600&center=true&vCenter=true&width=780&lines=B.Tech+Computer+Science+Student;Full+Stack+%26+Windows+Systems+Developer;Building+MERN%2C+Next.js+%26+Desktop+Apps;Exploring+AI%2C+Security+%26+System+Design" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashishrajput9838&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aashishrajput9838&label=Profile%20Views&color=FF6600&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/aashishrajput9838?logo=github&style=for-the-badge&color=181717" alt="Followers" />
   <img src="https://img.shields.io/github/stars/aashishrajput9838?affiliations=OWNER&style=for-the-badge&color=0e75b6" alt="Stars" />
 </p>
@@ -205,7 +205,7 @@ Full-Stack Development
       </p>
       <p>
         <a href="https://aspirinexar.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Official_Website-aspirinexar.vercel.app-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="AspirinExar Website" />
+          <img src="https://img.shields.io/badge/Official_Website-aspirinexar.vercel.app-FF6600?style=for-the-badge&logo=vercel&logoColor=white" alt="AspirinExar Website" />
         </a>
       </p>
     </td>
