@@ -50,6 +50,17 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases" />
 </p>
 
+<h3 align="center">🛠️ DevOps, Testing & Tooling</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode,postman" alt="DevOps & Tools" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyInstaller-Executable_Build-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyInstaller" />
+  <img src="https://img.shields.io/badge/Pytest-pytest--qt-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Ruff-Fast_Linter-261230?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />
+  <img src="https://img.shields.io/badge/MyPy-Strict_Types-2A629A?style=for-the-badge&logo=python&logoColor=white" alt="MyPy" />
+</p>
+
 <h3 align="center">🖥️ Desktop & Systems Engineering</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PySide6-Qt_6.7-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6" />
@@ -77,17 +88,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Windows_DPAPI-Encrypted_Storage-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows DPAPI" />
   <img src="https://img.shields.io/badge/2FA-Google_Authenticator-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="2FA Google Authenticator" />
-</p>
-
-<h3 align="center">🛠️ DevOps, Testing & Tooling</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode,postman" alt="DevOps & Tools" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyInstaller-Executable_Build-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyInstaller" />
-  <img src="https://img.shields.io/badge/Pytest-pytest--qt-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/Ruff-Fast_Linter-261230?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />
-  <img src="https://img.shields.io/badge/MyPy-Strict_Types-2A629A?style=for-the-badge&logo=python&logoColor=white" alt="MyPy" />
 </p>
 
 ---
