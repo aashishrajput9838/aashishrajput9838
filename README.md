@@ -196,6 +196,18 @@ Full-Stack Development
 
 ---
 
+<p align="center">
+  <a href="https://aspirinexar.vercel.app/" target="_blank">
+    <img src="logo-aspirinexar.png" width="360" alt="aspirinexar Logo" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>© 2026 <b>aspirinexar</b>. All Rights Reserved.</sub>
+</p>
+
+---
+
 <h2 align="center">📫 Connect & Contact</h2>
 
 <p align="center">
@@ -211,17 +223,5 @@ Full-Stack Development
   <a href="https://www.instagram.com/aashishrajput9838" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://aspirinexar.vercel.app/" target="_blank">
-    <img src="logo-aspirinexar.png" width="360" alt="aspirinexar Logo" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>© 2026 <b>aspirinexar</b>. All Rights Reserved.</sub>
 </p>
 
