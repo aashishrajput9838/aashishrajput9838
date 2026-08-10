@@ -110,14 +110,6 @@
 
 ---
 
-<h2 align="center">🎯 Developer Focus & Roadmap</h2>
-
-<p align="center">
-  <img src="roadmap-flowchart.svg" width="100%" alt="Developer Focus & Roadmap Flowchart" />
-</p>
-
----
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <table align="center" width="100%">
