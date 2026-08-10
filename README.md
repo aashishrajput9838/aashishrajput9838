@@ -231,16 +231,4 @@ Full-Stack Development
   </a>
 </p>
 
----
 
-<p align="center">
-  <i>"Building, learning, and shipping one project at a time."</i>
-</p>
-
-<p align="center">
-  <sub>© 2026 <b>aspirinexar</b> • All Rights Reserved</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Footer Wave" />
-</p>
