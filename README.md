@@ -207,6 +207,15 @@ Full-Stack Development
 
 ---
 
+## 📝 Engineering Milestones & Highlights
+
+- ⚡ **Architected BatmanOverlay:** High-performance Windows desktop overlay assistant using C++, QtWebEngine, and Win32 APIs.
+- 🏢 **Founded aspirinexar:** Digital tech venture delivering scalable web applications and software engineering solutions.
+- 🧩 **Algorithmic Problem Solving:** Actively practicing data structures & algorithms on **[LeetCode](https://leetcode.com/u/aashishrajput9838/)** (`@aashishrajput9838`).
+- 🚀 **Open Source & Full-Stack:** Building production-ready applications with the MERN stack, Next.js, and Python.
+
+---
+
 ## 🏛️ Brand & Venture
 
 <table>
@@ -244,6 +253,9 @@ Full-Stack Development
   </a>
   <a href="https://github.com/aashishrajput9838" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/aashishrajput9838/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.instagram.com/aashishrajput9838" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
