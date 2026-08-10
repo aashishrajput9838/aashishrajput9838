@@ -211,6 +211,19 @@ Full-Stack Development
 
 ---
 
+<h2 align="center">🎵 Profile Theme Song</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/results?search_query=Khat+song" target="_blank">
+    <img src="https://img.shields.io/badge/🎧_Theme_Song-Khat-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play Khat Theme Song" />
+  </a>
+  <a href="https://www.youtube.com/results?search_query=Khat+song" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Listen_on-YouTube_Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Listen on YouTube" />
+  </a>
+</p>
+
+---
+
 <h2 align="center">📫 Connect & Contact</h2>
 
 <p align="center">
