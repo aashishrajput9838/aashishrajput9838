@@ -110,6 +110,20 @@
 
 ---
 
+<h2 align="center">🎯 Developer Focus & Roadmap</h2>
+
+```
+Full-Stack Development
+ └── ⚙️ Backend Engineering
+      └── 🖥️ Desktop & Systems Engineering
+           └── 🔐 Authentication & Security Systems
+                └── 🤖 Artificial Intelligence Integrations
+                     └── 🏗️ Scalable System Design
+                          └── 🚀 Software Engineering & Entrepreneurship
+```
+
+---
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <table align="center" width="100%">
@@ -179,20 +193,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">🎯 Developer Focus & Roadmap</h2>
-
-```
-Full-Stack Development
- └── ⚙️ Backend Engineering
-      └── 🖥️ Desktop & Systems Engineering
-           └── 🔐 Authentication & Security Systems
-                └── 🤖 Artificial Intelligence Integrations
-                     └── 🏗️ Scalable System Design
-                          └── 🚀 Software Engineering & Entrepreneurship
-```
 
 ---
 
