@@ -175,16 +175,6 @@ I am a **Computer Science Engineering student** with a strong foundation across 
 
 ---
 
-## 📚 Currently Learning
-
-- ⚡ **Next.js 16 & TypeScript:** Building type-safe server-rendered applications
-- 🐳 **Docker & Containerization:** Streamlining application deployment pipelines
-- 🔥 **Firebase & Express.js:** Scalable backend API architectures
-- 🍃 **MongoDB & System Design:** Database modeling and high-availability design
-- 🤖 **AI Integrations:** Embedding machine learning workflows into web products
-
----
-
 ## 🎯 Developer Focus & Roadmap
 
 ```
