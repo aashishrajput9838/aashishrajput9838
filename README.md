@@ -215,28 +215,11 @@ Full-Stack Development
 
 ---
 
-<h2 align="center">🏛️ Brand & Venture</h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="160" align="center" valign="middle">
-      <br/>
-      <img src="logo-aspirinexar.png" width="140" alt="aspirinexar Logo" />
-    </td>
-    <td valign="top">
-      <h3>⚡ aspirinexar</h3>
-      <p><b>Innovative Tech Solutions, Web Engineering & Digital Products</b></p>
-      <p>
-        Pioneering scalable web platforms, full-stack software architectures, and modern digital experiences.
-      </p>
-      <p>
-        <a href="https://aspirinexar.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Official_Website-aspirinexar.vercel.app-FF6600?style=for-the-badge&logo=vercel&logoColor=white" alt="aspirinexar Website" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://aspirinexar.vercel.app/" target="_blank">
+    <img src="logo-aspirinexar.png" width="360" alt="aspirinexar Logo" />
+  </a>
+</p>
 
 <p align="center">
   <sub>© 2026 <b>aspirinexar</b>. All Rights Reserved.</sub>
