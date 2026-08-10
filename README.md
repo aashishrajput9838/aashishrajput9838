@@ -111,7 +111,7 @@
   <summary>🏆 <b>Click to View GitHub Trophies</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aashishrajput9838&theme=tokyonight&margin-w=15&no-frame=true&row=1" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=aashishrajput9838&theme=tokyonight&margin-w=15&no-frame=true&row=1" alt="GitHub Trophies" />
   </p>
 </details>
 
