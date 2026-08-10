@@ -22,8 +22,9 @@
 
 <h2 align="center">👤 About Me</h2>
 
-Computer Science Engineering student specializing in **Full-Stack Web Development**, **Windows Desktop Systems**, and **Backend Architecture**. Experienced in building modern MERN & Next.js web applications, high-performance C++/Python desktop utilities, and secure APIs.
-
+<p align="center">
+  Computer Science Engineering student specializing in <b>Full-Stack Web Development</b>, <b>Windows Desktop Systems</b>, and <b>Backend Architecture</b>. Experienced in building modern MERN & Next.js web applications, high-performance C++/Python desktop utilities, and secure APIs.
+</p>
 
 ---
 
@@ -240,5 +241,4 @@ Full-Stack Development
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
 
