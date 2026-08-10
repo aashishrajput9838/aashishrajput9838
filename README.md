@@ -24,9 +24,6 @@
 
 Computer Science Engineering student specializing in **Full-Stack Web Development**, **Windows Desktop Systems**, and **Backend Architecture**. Experienced in building modern MERN & Next.js web applications, high-performance C++/Python desktop utilities, and secure APIs.
 
-- 🎓 **B.Tech CSE Student** & Full-Stack / Systems Developer
-- 💻 **Core Engineering:** MERN Stack, Next.js, Python, C++, Win32 APIs, Desktop Systems
-- 🎯 **Vision:** Building high-performance, scalable software products
 
 ---
 
