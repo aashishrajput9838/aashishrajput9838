@@ -94,18 +94,24 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-extended.vercel.app/api?username=aashishrajput9838&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=aashishrajput9838&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishrajput9838&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=aashishrajput9838&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats-extended.vercel.app/api?username=aashishrajput9838&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=aashishrajput9838&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishrajput9838&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aashishrajput9838&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary>🏆 <b>Click to View GitHub Trophies</b></summary>
