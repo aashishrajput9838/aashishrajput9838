@@ -20,7 +20,7 @@
 
 ---
 
-## 👤 About Me
+<h2 align="center">👤 About Me</h2>
 
 Computer Science Engineering student specializing in **Full-Stack Web Development**, **Windows Desktop Systems**, and **Backend Architecture**. Experienced in building modern MERN & Next.js web applications, high-performance C++/Python desktop utilities, and secure APIs.
 
@@ -30,62 +30,62 @@ Computer Science Engineering student specializing in **Full-Stack Web Developmen
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
-### 👨‍💻 Languages
-<p>
+<h3 align="center">👨‍💻 Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,java" alt="Languages" />
 </p>
 
-### 🎨 Web & Frontend
-<p>
+<h3 align="center">🎨 Web & Frontend</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Web & Frontend" />
 </p>
 
-### ⚙️ Backend & Runtime
-<p>
+<h3 align="center">⚙️ Backend & Runtime</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase" alt="Backend & Runtime" />
 </p>
 
-### 🗄️ Databases & Storage
-<p>
+<h3 align="center">🗄️ Databases & Storage</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases" />
 </p>
 
-### 🖥️ Desktop & Systems Engineering
-<p>
+<h3 align="center">🖥️ Desktop & Systems Engineering</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/PySide6-Qt_6.7-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6" />
   <img src="https://img.shields.io/badge/Win32_API-Windows_SDK-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Win32 API" />
   <img src="https://img.shields.io/badge/C%2B%2B_Native_DLLs-MSVC-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Native DLLs" />
   <img src="https://img.shields.io/badge/SendInput_API-Win32-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="SendInput API" />
 </p>
 
-### 🌐 Browser & Automation Engine
-<p>
+<h3 align="center">🌐 Browser & Automation Engine</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Embedded_Chromium-QtWebEngine-4285F4?style=for-the-badge&logo=chromium&logoColor=white" alt="Embedded Chromium" />
   <img src="https://img.shields.io/badge/CDP_Automation-DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CDP Automation" />
   <img src="https://img.shields.io/badge/WebSocket_Client-Realtime-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket Client" />
   <img src="https://img.shields.io/badge/OAuth2_Handoff-Auth_Server-EB5424?style=for-the-badge&logo=openid&logoColor=white" alt="OAuth2 Handoff" />
 </p>
 
-### 🖼️ Graphics & Screen Capture
-<p>
+<h3 align="center">🖼️ Graphics & Screen Capture</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/DirectX-GPU_Capture-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DirectX" />
   <img src="https://img.shields.io/badge/DXGI-Desktop_Duplication-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DXGI" />
   <img src="https://img.shields.io/badge/Win32_BitBlt-Screen_Capture-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Win32 BitBlt" />
 </p>
 
-### 🔐 Security & Encryption
-<p>
+<h3 align="center">🔐 Security & Encryption</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Windows_DPAPI-Encrypted_Storage-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows DPAPI" />
   <img src="https://img.shields.io/badge/2FA-Google_Authenticator-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="2FA Google Authenticator" />
 </p>
 
-### 🛠️ DevOps, Testing & Tooling
-<p>
+<h3 align="center">🛠️ DevOps, Testing & Tooling</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode,postman" alt="DevOps & Tools" />
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PyInstaller-Executable_Build-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyInstaller" />
   <img src="https://img.shields.io/badge/Pytest-pytest--qt-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/Ruff-Fast_Linter-261230?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />
@@ -94,7 +94,7 @@ Computer Science Engineering student specializing in **Full-Stack Web Developmen
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-extended.vercel.app/api?username=aashishrajput9838&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -119,7 +119,7 @@ Computer Science Engineering student specializing in **Full-Stack Web Developmen
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aashishrajput9838/aashishrajput9838/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
@@ -127,9 +127,9 @@ Computer Science Engineering student specializing in **Full-Stack Web Developmen
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 🌟 Headline Showcase Project
+<h3 align="center">🌟 Headline Showcase Project</h3>
 
 <table>
   <tr>
@@ -162,7 +162,7 @@ Computer Science Engineering student specializing in **Full-Stack Web Developmen
 
 ---
 
-## 🎯 Developer Focus & Roadmap
+<h2 align="center">🎯 Developer Focus & Roadmap</h2>
 
 ```
 Full-Stack Development
@@ -176,7 +176,7 @@ Full-Stack Development
 
 ---
 
-## 📝 Engineering Milestones & Highlights
+<h2 align="center">📝 Engineering Milestones & Highlights</h2>
 
 - ⚡ **Architected BatmanOverlay:** High-performance Windows desktop overlay assistant using C++, QtWebEngine, and Win32 APIs.
 - 🏢 **Founded aspirinexar:** Digital tech venture delivering scalable web applications and software engineering solutions.
@@ -185,7 +185,7 @@ Full-Stack Development
 
 ---
 
-## 🏛️ Brand & Venture
+<h2 align="center">🏛️ Brand & Venture</h2>
 
 <table>
   <tr>
@@ -214,9 +214,9 @@ Full-Stack Development
 
 ---
 
-## 📫 Connect & Contact
+<h2 align="center">📫 Connect & Contact</h2>
 
-<p align="left">
+<p align="center">
   <a href="mailto:aashishrajput9838@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
