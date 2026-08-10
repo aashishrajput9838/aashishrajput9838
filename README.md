@@ -65,7 +65,7 @@ I am a **Computer Science Engineering student** with a strong foundation across 
 
 ### 🌐 Browser & Automation Engine
 <p>
-  <img src="https://img.shields.io/badge/Embedded_Chromium-QtWebEngine-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Embedded Chromium" />
+  <img src="https://img.shields.io/badge/Embedded_Chromium-QtWebEngine-4285F4?style=for-the-badge&logo=chromium&logoColor=white" alt="Embedded Chromium" />
   <img src="https://img.shields.io/badge/CDP_Automation-DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CDP Automation" />
   <img src="https://img.shields.io/badge/WebSocket_Client-Realtime-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket Client" />
   <img src="https://img.shields.io/badge/OAuth2_Handoff-Auth_Server-EB5424?style=for-the-badge&logo=openid&logoColor=white" alt="OAuth2 Handoff" />
@@ -96,12 +96,12 @@ I am a **Computer Science Engineering student** with a strong foundation across 
 
 ### 🛠️ DevOps, Testing & Tooling
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,postman" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode,postman" alt="DevOps & Tools" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/PyInstaller-Executable_Build-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyInstaller" />
   <img src="https://img.shields.io/badge/Pytest-pytest--qt-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/Ruff-Fast_Linter-261230?style=for-the-badge&logo=ruff&logoColor=white" alt="Ruff" />
+  <img src="https://img.shields.io/badge/Ruff-Fast_Linter-261230?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />
   <img src="https://img.shields.io/badge/MyPy-Strict_Types-2A629A?style=for-the-badge&logo=python&logoColor=white" alt="MyPy" />
 </p>
 
