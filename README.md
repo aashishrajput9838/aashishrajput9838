@@ -127,8 +127,6 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<h3 align="center">🌟 Headline Showcase Project</h3>
-
 <table>
   <tr>
     <td width="110" align="center" valign="top">
