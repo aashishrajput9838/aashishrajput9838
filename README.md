@@ -30,24 +30,6 @@ I am a **Computer Science Engineering student** with a strong foundation across 
 * 🔐 **Security & AI:** Authentication Systems, Credential Encryption, and Machine Learning Integrations.
 * 🎯 **Career Vision:** Driven to become a versatile Software Engineer and build innovative, high-impact products.
 
-```javascript
-const AASHISH_RAJPUT = {
-    code: ["Python", "C++", "C", "JavaScript", "TypeScript", "Java"],
-    scope: {
-        fullStack: ["React", "Next.js", "Tailwind CSS", "HTML5/CSS3"],
-        backend: ["Node.js", "Express.js", "Firebase", "REST APIs"],
-        desktopSystems: ["PySide6", "Qt 6.7", "QtWebEngine", "Win32 API", "C++ Native DLLs"],
-        browserAutomation: ["Embedded Chromium", "CDP", "WebSockets", "OAuth2"],
-        databases: ["MongoDB", "MySQL", "SQLite"],
-        security: ["Windows DPAPI", "2FA Google Authenticator"],
-        graphics: ["DirectX", "DXGI Desktop Duplication", "Win32 BitBlt"],
-        devOpsTooling: ["Docker", "Git", "GitHub Actions", "Linux", "VSCode", "PyInstaller", "Pytest"]
-    },
-    brand: "aspirinexar",
-    website: "https://aspirinexar.vercel.app/"
-};
-```
-
 ---
 
 ## ⚡ Engineering Interests
