@@ -151,17 +151,6 @@ I am a **Computer Science Engineering student** with a strong foundation across 
   </tr>
 </table>
 
-<br/>
-
-### 📁 Additional Featured Projects
-
-| Project | Description | Core Stack |
-| :--- | :--- | :--- |
-| 🎓 **Academic Universe** | AI-powered Student ERP Platform for academic management and analytics | `Next.js` `Node.js` `MongoDB` `AI` |
-| 🎵 **SongX** | Modern Music Streaming Web Application with responsive playback | `React` `Node.js` `Express` `MongoDB` |
-| 🤖 **AI Authentication** | Google Authenticator-based 2FA Login and Security System | `Node.js` `Express` `Crypto` `2FA` |
-| 📊 **Life Debugger** | Daily Productivity Tracker and Mistake Analyzer | `Next.js` `Firebase` `React` |
-
 ---
 
 ## 📚 Currently Learning
