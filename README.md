@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profilepicture1.JPG" width="170" height="170" style="border-radius: 50%; object-fit: cover; border: 4px solid #00F7FF;" alt="Aashish Rajput Profile Picture" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Aashish Rajput</h1>
 
 <h3 align="center">🚀 Computer Science Engineer | Full-Stack & Systems Developer | AI & Security Enthusiast</h3>
