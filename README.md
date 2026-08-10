@@ -20,7 +20,7 @@
 
 ---
 
-## 💫 About Me
+## 👤 About Me
 
 I am a **Computer Science Engineering student** with a strong foundation across full-stack web development, Windows desktop systems, and backend engineering. My work spans building modern web platforms with MERN & Next.js, engineering high-performance Windows desktop software with Python & C++, and integrating AI and security mechanisms into software products.
 
